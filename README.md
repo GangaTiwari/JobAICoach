@@ -1,7 +1,5 @@
 # JobAiCoach
 
-![JobAiCoach Logo](https://via.placeholder.com/150?text=JobAiCoach+Logo) <!-- Replace with your actual logo URL -->
-
 Welcome to **JobAiCoach**, an AI-powered platform designed to help you ace your job interviews! This application provides personalized mock interviews, detailed feedback, and coaching tips to double your chances of landing your dream job.
 
 ## Table of Contents
